@@ -1,0 +1,31 @@
+.text-red {
+    color:red;
+}
+
+.text-header{
+    font-size: 40px;
+}
+
+.text-large {
+    font-size: 32px;
+}
+
+.text-medium {
+    font-size: 24px;
+}
+
+.text-small {
+    font-size: 20px;
+}
+
+.text-li {
+    font-size: 24px;
+}
+
+.list-style {
+    list-style-position: inside;
+}
+
+.text-font {
+    font-family: Arial, Helvetica, sans-serif;
+}
